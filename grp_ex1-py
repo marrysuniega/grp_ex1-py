@@ -1,0 +1,22 @@
+# My first simple script
+print("Hello, I'm Marry Suniega! BSCS 3G")
+age = 31
+Fullname = "Marry Suniega"
+print("Name:", Fullname)
+print("Age:", age)
+member1 = "Kimberly"
+member2 = "Lawrence"
+member3 = "Norlito"
+member4 = "Anelica"
+print("Group Members:")
+print(member1)
+print(member2)
+print(member3)
+print(member4)
+m1 = 12
+m2 = 45
+m3 = 60
+m4 = 13
+print("Values of m1, m2, m3, m4:", m1, m2, m3, m4)
+m1 = m2 = m3 = m4 = 100
+print("Values of m1, m2, m3, m4:", m1, m2, m4, m4)
